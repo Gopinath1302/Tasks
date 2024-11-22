@@ -6,4 +6,5 @@
 #reviewed on       :
 
 from Controller.login_control import User_choise
+print("HI")
 User_choise()
